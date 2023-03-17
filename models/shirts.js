@@ -3,17 +3,17 @@ const shirts = [
     {
         style:'t-shirt',
         color: 'white',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'button-up shirt',
         color: 'blue',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'crew neck',
         color: 'pink',
-        availableforPurchase: true
+        availableForPurchase: true
     }
 ];
 

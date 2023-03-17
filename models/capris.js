@@ -3,17 +3,17 @@ const capris= [
     {
         style:'cargo',
         color: 'black',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'active',
         color: 'blue',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'relaxed',
         color: 'green',
-        availableforPurchase: false
+        availableForPurchase: false
     }
 ];
 

@@ -3,17 +3,17 @@ const dresses= [
     {
         style:'floral',
         color: 'pink',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'evening',
         color: 'red',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'maxi',
         color: 'green',
-        availableforPurchase: false
+        availableForPurchase: false
     }
 ];
 

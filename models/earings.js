@@ -3,17 +3,17 @@ const earings= [
     {
         style:'hoops',
         color: 'gold',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'stud',
         color: 'silver',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'chandelier',
         color: 'gold',
-        availableforPurchase: false
+        availableForPurchase: false
     }
 ];
 

@@ -3,17 +3,17 @@ const robes= [
     {
         style:'plush',
         color: 'red',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'silk',
         color: 'pink',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'cotton',
         color: 'white',
-        availableforPurchase: true
+        availableForPurchase: true
     }
 ];
 

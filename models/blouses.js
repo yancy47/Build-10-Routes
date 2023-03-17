@@ -3,17 +3,17 @@ const blouses= [
     {
         style:'collared neck blouse',
         color: 'white',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'halter-neck blouse',
         color: 'blue',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'boat-neck blouse',
         color: 'pink',
-        availableforPurchase: false
+        availableForPurchase: false
     }
 ];
 

@@ -3,17 +3,17 @@ const pants = [
     {
         style:'bootcut pants',
         color: 'blue',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'wide leg pants',
         color: 'black',
-        availableforPurchase: false
+        availableForPurchase: false
     },
     {
         style:'high waist pants',
         color: 'yellow',
-        availableforPurchase: true
+        availableForPurchase: true
     }
 ];
 

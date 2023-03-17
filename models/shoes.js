@@ -3,17 +3,17 @@ const shoes= [
     {
         style:'boots',
         color: 'brown',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'sneakers',
         color: 'white',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'heels',
         color: 'red',
-        availableforPurchase: true
+        availableForPurchase: true
     }
 ];
 

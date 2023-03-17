@@ -3,17 +3,17 @@ const hats= [
     {
         style:'cowboy',
         color: 'brown',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'fedora',
         color: 'blue',
-        availableforPurchase: true
+        availableForPurchase: true
     },
     {
         style:'beanie',
         color: 'black',
-        availableforPurchase: true
+        availableForPurchase: true
     }
 ];
 
